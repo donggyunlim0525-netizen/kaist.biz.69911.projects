@@ -16,7 +16,7 @@ Team members: see [How to update your row](#how-to-update-your-row) below the ta
 | 5 | (project name) | (one sentence: who it is for and what it does) | — | — |
 | 6 | (project name) | (one sentence: who it is for and what it does) | — | — |
 | 7 | Wine not? (주제 변경 검토 중) | 한국의 와인 초보가 마신 와인을 기록하며 자신의 취향을 알아가고 다음 와인을 고르도록 돕는 서비스를 기획합니다. | — | [wlstjr5817-cyber/kaist-team07-project](https://github.com/wlstjr5817-cyber/kaist-team07-project) |
-| 8 | (project name) | (one sentence: who it is for and what it does) | — | — |
+| 8 | 청담음료, 득근음료(가제) | 건강음료 성분 정보를 제공하는 큐레이션 서비스 | — | [https://github.com/donggyunlim0525-netizen/kaist.biz.69911.projects](https://github.com/wlstjr5817-cyber/kaist-team07-project](https://github.com/donggyunlim0525-netizen/kaist.biz.69911.projects) |
 | 9 | Firm Engine | 개인회생 사건을 담당하는 로펌 근무자들을 위한 AI-Automation 서비스입니다. | — | [firmengine/firmengine](https://github.com/firmengine/firmengine) |
 | 10 | 복지용구 세컨드 오피니언 (주제 탐색 중) | 장기요양 등급을 막 받은 가족 보호자가 복지용구사업소의 제안을 판매 이해관계 없이 검토받도록 돕는 AI 서비스를 기획합니다. | — | [4kmba/ltc-caregivers](https://github.com/4kmba/ltc-caregivers) |
 | 11 | (project name) | (one sentence: who it is for and what it does) | — | — |
