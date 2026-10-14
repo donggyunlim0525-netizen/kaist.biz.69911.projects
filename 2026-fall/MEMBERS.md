@@ -51,6 +51,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 
 | Name | Personal page |
 |------|---------------|
+| 임동균 | [donggyunlim0525-netizen.github.io/](donggyunlim0525-netizen.github.io/) |
 
 ## Team 9
 
